@@ -1,6 +1,7 @@
 ### Hi there 👋
 HTML es el lenguaje utilizado para crear la estructura y el contenido de una página web, mientras que CSS es el lenguaje utilizado para controlar la presentación y el diseño de esos elementos HTML. HTML define la información que se muestra en la página, como texto e imágenes, mediante etiquetas, mientras que CSS especifica cómo se ven esos elementos, como el color, el tamaño y la disposición. Juntos, HTML y CSS permiten la creación de sitios web visualmente atractivos y funcionales.
 
+![pexels-life-of-pix-7974](https://github.com/404SE/404SE/assets/147956290/096002a2-b514-4c6b-bf5e-29532d1ead78)
 
 <!--
 **404SE/404SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
